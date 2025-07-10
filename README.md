@@ -29,25 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanganhsprt3&show_icons=true&locale=en&layout=compact" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanganhsprt3&show_icons=true&count_private=true&hide_border=true" height="180"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanganhsprt3&" alt="hoanganhsprt3" />
-</p>
-
-
----
-
-### 🌈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanganhsprt3&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 <p align="center">
